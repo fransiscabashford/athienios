@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aewooxaew.nelsonreitz.ch/sitemap.xml
